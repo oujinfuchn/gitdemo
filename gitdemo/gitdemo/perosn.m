@@ -15,6 +15,7 @@
 
     if (self= [super init]) {
         
+        NSLog(@"lisi");
     }
     
     return self;

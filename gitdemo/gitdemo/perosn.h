@@ -10,4 +10,5 @@
 
 @interface perosn : NSObject
 @property(nonatomic,assign) int age;
+
 @end
