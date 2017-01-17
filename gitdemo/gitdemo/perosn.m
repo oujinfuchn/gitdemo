@@ -14,9 +14,13 @@
 {
 
     if (self= [super init]) {
+
         
         NSLog(@"lisi");
         NSLog(@"zhangss");
+
+ 
+
     }
     
     return self;

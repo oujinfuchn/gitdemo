@@ -9,6 +9,5 @@
 #import <Foundation/Foundation.h>
 
 @interface perosn : NSObject
-@property(nonatomic,assign) int age;
 
 @end
