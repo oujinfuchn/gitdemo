@@ -16,6 +16,7 @@
     if (self= [super init]) {
         
         NSLog(@"lisi");
+        NSLog(@"lishishsi");
     }
     
     return self;
